@@ -9,7 +9,7 @@
 🧑‍🌾 &nbsp;사용자 경험을 핵심 가치로 보고 최적의 모니터링 시스템을 고민하고 적용합니다. \
 🌱 &nbsp;유지보수성이 뛰어난 서비스 개발을 위한 인프라 및 아키텍쳐 탐구를 즐겨합니다. \
 ✍️ &nbsp;데이터를 재구조화 하여 새로운 비즈니스적 가치와 신뢰성있는 데이터 창출을 위해 고민합니다.  \
-📄 &nbsp;[od-lab-blog](https://velog.io/@akkessun/posts) 에서 다양한 포스트를 확인해보세요!
+🖥️ &nbsp;[od-lab-blog](https://velog.io/@akkessun/posts) 에서 다양한 포스트를 확인해보세요!
 
 <br />
 
